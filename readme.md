@@ -1,8 +1,8 @@
-Insights about the airline delays. Analyzed using groovy programming language and MongoDB.
+**Insights about the airline delays. Analyzed using groovy programming language and MongoDB.**
 
 
 
-Exercise 1: Planning 
+**Exercise 1: Planning **
 Choose a JSON dataset that is of your interest.  
 
 Define a query that will require at least one of each of the following type of operations (SQL statements included for reference only as we are working with NoSQL technology):
