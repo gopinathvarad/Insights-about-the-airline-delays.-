@@ -37,3 +37,8 @@ Deepen the analysis initiated in Exercise 4 by providing additional evidence and
 i) Utilising additional datasets from the same domain to reinforce your points.
 ii) Performing performance measurements for quantitative backing.
 iii) Extending your research on the topic through consultation of relevant academic literature.
+
+
+# Link to the youtube video:
+
+# https://youtu.be/zkKFx42A21c
